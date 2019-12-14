@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633195077796",
+    "firebase_url": "https://calculadoraflex-sukeda.firebaseio.com",
+    "project_id": "calculadoraflex-sukeda",
+    "storage_bucket": "calculadoraflex-sukeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633195077796:android:c32951b5a1adc40dcbc631",
+        "android_client_info": {
+          "package_name": "br.com.eduardosukeda.calculadoraflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633195077796-2tnc5guf354p7qgkk35qus5l14hfl8ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.eduardosukeda.calculadoraflex",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "633195077796-at7fq5f3b62rkaa07ltf1cd1t72nd3ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaE9s-q7g7ZL2UVVfWoi5Ro1KnPrbjWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633195077796-at7fq5f3b62rkaa07ltf1cd1t72nd3ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
